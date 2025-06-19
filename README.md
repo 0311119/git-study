@@ -1,1 +1,2 @@
-readme
+readme，write hello.py
+
